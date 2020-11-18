@@ -1,3 +1,6 @@
+OCA/
+target/
+
 # Compiled class file
 *.class
 
